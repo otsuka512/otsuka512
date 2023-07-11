@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @otsuka512 (Koichi Otsuka)
 - 👀 I’m interested in micro server.
-- 🌱 I’m currently learning D language.
-- 💞️ I’m looking to collaborate on private space exploration.
+- 🌱 I’m currently learning Prometheus/Grafana service.
+- 💞️ My MBTI is ISFJ.
 - 📫 How to reach me, open to https://otsuka512.com/
 
 <!---
